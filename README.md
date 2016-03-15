@@ -1,4 +1,5 @@
 # Kecerdasan-Buatan
+#Tugas1
 Nama : Zikri Wan Perala
 Nim  : 131113719
 kelas: TP-B Pagi
